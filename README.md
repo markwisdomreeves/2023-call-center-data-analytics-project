@@ -1,7 +1,7 @@
 
 Call Center Data - Data Analytics
 
-Data Analytics of Call Center Data: Objective: In this exercise, I performed Data Analytics on an Open Dataset dataset coming from Airbnb. Some of the tasks include Data Extracting. 
+Objective: In this exercise, I performed Data Analytics on an Open Dataset dataset coming from Airbnb. Some of the tasks include Data Extracting. 
 Data Cleaning. Data Reorganizing. Data Transformation. Data Visualization.
 
 From the dataset, we found that Electronics EMS-related calls represented the most 911 calls, followed by traffic and then fire. 
